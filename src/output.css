@@ -186,6 +186,9 @@
   .mx-\[au\] {
     margin-inline: au;
   }
+  .mx-\[auoto\] {
+    margin-inline: auoto;
+  }
   .mx-\[auto\] {
     margin-inline: auto;
   }
@@ -218,6 +221,9 @@
   }
   .mt-\[5px\] {
     margin-top: 5px;
+  }
+  .mt-\[7px\] {
+    margin-top: 7px;
   }
   .mt-\[010px\] {
     margin-top: 010px;
