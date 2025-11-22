@@ -180,6 +180,15 @@
   .mx-\[15px\] {
     margin-inline: 15px;
   }
+  .mx-\[ao\] {
+    margin-inline: ao;
+  }
+  .mx-\[au\] {
+    margin-inline: au;
+  }
+  .mx-\[auto\] {
+    margin-inline: auto;
+  }
   .mx-auto {
     margin-inline: auto;
   }
